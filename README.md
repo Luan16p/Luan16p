@@ -1,5 +1,5 @@
 ### Olá, eu sou Luan Alves 🖖
-- 👋 Novato no Github
+
 - 👀 Trabalhando em Front-end & Back-end
 - ☕ Estudando Java
 - 🎩 Universidade: IFMS Campus Naviraí | MS
