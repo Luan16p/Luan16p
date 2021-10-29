@@ -2,6 +2,8 @@
 
 ### System.out.println("Bio:");
 
+<br/>
+
 - 👀 Trabalhando em Front-end & Back-end
 - ☕ Estudando Java
 - 🎩 Universidade: IFMS Campus Naviraí | MS
@@ -22,5 +24,5 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  ##
+ <hr>
  
