@@ -35,8 +35,6 @@
   <img align="center" alt="SQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
   
   
-  <span>             </span>
-  
   <img align="center" alt="vsCode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
  
   
