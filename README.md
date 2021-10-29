@@ -56,7 +56,7 @@
   
  <hr>
  
- <section align: center;>
+ <section style="justify-content: center;">
   <kbd>
     <kbd>Front-end</kbd>
     <br>
