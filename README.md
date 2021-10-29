@@ -51,8 +51,8 @@
  <hr>
   
   
-<p align="center" style="margin: 10px 0;">
-    Número de visitas: <br> <img src="https://profile-counter.glitch.me/Luan16p/count.svg" alt="contador de visitas">
+<p align="center">
+    Número de visitas: <br> <img style="margin: 10px 0;" src="https://profile-counter.glitch.me/Luan16p/count.svg" alt="contador de visitas">
   </p>
   <br>
   
