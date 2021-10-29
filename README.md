@@ -50,5 +50,8 @@
   
  <hr>
   
+  
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=Luan16p)
+  
  
 
