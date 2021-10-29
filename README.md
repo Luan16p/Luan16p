@@ -52,7 +52,7 @@
   
   
 <p align="center">
-    Número de visitas: <br> <img src="https://profile-counter.glitch.me/erikfritas/count.svg" alt="contador de visitas">
+    Número de visitas: <br> <img src="https://profile-counter.glitch.me/Luan16p/count.svg" alt="contador de visitas">
   </p>
   <br>
   
