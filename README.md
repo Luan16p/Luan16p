@@ -51,7 +51,10 @@
  <hr>
   
   
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=Luan16p)
+<p align="center">
+    Número de visitas: <br> <img src="https://profile-counter.glitch.me/erikfritas/count.svg" alt="contador de visitas">
+  </p>
+  <br>
   
  
 
