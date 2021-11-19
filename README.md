@@ -6,7 +6,7 @@
 
 - 👀 Trabalhando em Front-end & Back-end
 - 💻 Estudando Kotlin
-- 🎩 Universidade: IFMS Campus Naviraí | MS
+- 🎩 Instituto: IFMS Campus Naviraí | MS
 - 📫 Contate-me:  luan.silva8@estudante.ifms.edu.br
 
 <br/>
