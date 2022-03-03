@@ -1,6 +1,5 @@
 # Hello World! Seja bem vindo(a) ao Meu perfil 🖖
 
-## Nerd não, apenas um apaixonado pela ciencia 🌌!
 
 ### System.out.println("Bio:");
 
