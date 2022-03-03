@@ -1,5 +1,5 @@
 # <div class="txt-center" style="display: flex; text-align: center;">Hello World! Seja bem vindo(a) ao Meu perfil 🌌</div>
-## <div class="txt-center" style="display: flex; text-align: center;">Dev Front end, Back end & Database</div>
+## <div class="txt-center" style="display: flex; text-align: center; margin: 20px 0">Dev Front end, Back end & Database</div>
 
 <div align="center" style="flex-wrap: nowrap;">
   
