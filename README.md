@@ -1,4 +1,4 @@
-# <center>Hello World! Seja bem vindo(a) ao Meu perfil 🌌</center>
+# <div class="txt-center" style="text-align: center;">Hello World! Seja bem vindo(a) ao Meu perfil 🌌</div>
 
 
 <br/>
