@@ -1,4 +1,11 @@
-#                             <div class="txt-center" style="text-align: center;">Hello World! Seja bem vindo(a) ao Meu perfil 🌌</div>
+# <div class="txt-center" style="display: flex; text-align: center;">Hello World! Seja bem vindo(a) ao Meu perfil 🌌</div>
+## <div class="txt-center" style="display: flex; text-align: center;">Dev Front end, Back end & Database</div>
+
+<div align="center" style="flex-wrap: nowrap;">
+  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luan16p&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+</div>
 
 
 <br/>
@@ -11,11 +18,6 @@
 <br/>
 <br/>
 
-<div align="center" style="flex-wrap: nowrap;">
-  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luan16p&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
- </div>
   
   <br/>
   <br/>
