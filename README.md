@@ -1,7 +1,5 @@
-# Hello World! Seja bem vindo(a) ao Meu perfil 🖖
+# <center>Hello World! Seja bem vindo(a) ao Meu perfil 🌌</center>
 
-
-### System.out.println("Bio:");
 
 <br/>
 
@@ -14,10 +12,10 @@
 <br/>
 
 <div align="center" style="flex-wrap: nowrap;">
-  <a href="https://github.com/rafaballerini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luan16p&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan16p&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luan16p&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+ </div>
   
   <br/>
   <br/>
@@ -48,14 +46,5 @@
  
   
 </div>
-  
- <hr>
-  
-  
-<p align="center">
-    Número de visitas: <br> <img style="margin: 10px 0;" src="https://profile-counter.glitch.me/Luan16p/count.svg" alt="contador de visitas">
-  </p>
-  <br>
-  
  
 
