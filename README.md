@@ -6,8 +6,10 @@
 
 <br/>
 
-- 👀 Trabalhando em Front-end & Back-end
-- 💻 Estudando PHP
+
+- ⏳ Apenas mais um apaixonado pela Ciência
+- ⚛ Conduzindo uma Pesquisa sobre Computação quantica aplicada
+- ⚗ Estudando Data Science
 - 🎩 Instituto: IFMS Campus Naviraí | MS
 - 📫 Contate-me:  luan.silva8@estudante.ifms.edu.br
 
