@@ -1,4 +1,4 @@
-# Olá Mundo, 🌌
+# Hello World!
 
 ### Dev Front-end, Back-end & Banco de Dados!
 
