@@ -7,20 +7,12 @@
 <br/>
 
 
-- ⏳ Ciencia e Tecnologia Andam lado a lado!
-- ⚛ Computação Quantica
-- ⚗ Data Science
-- 🎩 Instituto: IFMS Campus Naviraí | MS
-- 📫 Contate-me:  luan.silva8@estudante.ifms.edu.br
-
-<br/>
-
-<div align="center" style="flex-wrap: nowrap;">
-  
-
-</div>
-
-  
+* ⏳ Ciencia e Tecnologia Andam lado a lado!
+* ⚛ Computação Quantica
+* ⚗ Data Science
+* 🎩 Instituto: IFMS Campus Naviraí | MS
+* 📫 Contate-me:  luan.silva8@estudante.ifms.edu.br
+ 
   <br/>
   <br/>
   
