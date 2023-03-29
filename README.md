@@ -3,17 +3,12 @@
 ### Dev Front-end, Back-end & Banco de Dados!
 
 
-
-<br/>
-
-
 * ⏳ Ciencia e Tecnologia Andam lado a lado!
 * ⚛ Computação Quantica
 * ⚗ Data Science
 * 🎩 Instituto: IFMS Campus Naviraí | MS
 * 📫 Contate-me:  luan.silva8@estudante.ifms.edu.br
  
-  <br/>
   <br/>
   
 <div style="display: inline-block; margin-left: 30px;"><br>
