@@ -8,10 +8,8 @@
 * ⚗ Data Science
 * 🎩 Instituto: IFMS Campus Naviraí | MS
 * 📫 Contate-me:  luan.silva8@estudante.ifms.edu.br
- 
-  <br/>
   
-<div style="display: inline-block; margin-left: 30px;"><br>
+<div style="display: flex; flex-direction: row; gap: 40px;"><br>
   <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
