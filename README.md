@@ -27,6 +27,5 @@ Estou sempre aberto(a) para novas oportunidades e colaborações. Se você gosta
 - LinkedIn: [CONSTRUINDO]
 - Website: https://curriculovirtual.vercel.app/
 
-Obrigado(a) por visitar o meu GitHub! :rocket:
-
+- 
 <i>~ Falar é fácil, me mostre o código.</i>
