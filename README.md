@@ -4,9 +4,9 @@ Olá! Sou Luan Alves da Silva, um profissional da área de Tecnologia da Informa
 
 ## Formação
 
-- **Técnico em Informática para Internet** - IFMS Campus Naviraí (Ano de conclusão)
-- **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** - Instituto Federal (IF) (Ano de início - Ano de previsão de conclusão)
-- **Sistemas para Internet** - Anhanguera (Ano de início - Ano de previsão de conclusão)
+- **Técnico em Informática para Internet** - IFMS Campus Naviraí (2022)
+- **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** - Instituto Federal (IF) (2023-2026)
+- **Sistemas para Internet** - Anhanguera (2023-2025/2)
 
 ## Especialização
 
