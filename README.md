@@ -1,3 +1,5 @@
+<i>Falar é fácil, me mostre o código.</i>
+
 # Bem-vindo(a) ao meu GitHub!
 
 Olá! Sou Luan Alves da Silva, um profissional da área de Tecnologia da Informação (TI) com uma trajetória dedicada ao aprimoramento de habilidades técnicas e especialização em diversas áreas do conhecimento. Meu foco principal é o desenvolvimento de soluções de alta qualidade, seguras e escaláveis, utilizando principalmente a linguagem de programação JavaScript, uma das mais importantes e versáteis da atualidade.
