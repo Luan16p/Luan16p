@@ -27,5 +27,7 @@ Estou sempre aberto(a) para novas oportunidades e colaborações. Se você gosta
 - LinkedIn: [CONSTRUINDO]
 - Website: https://curriculovirtual.vercel.app/
 
+<img src="https://myreadme.vercel.app/api/embed/Luan16p?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 - 
 <i>~ Falar é fácil, me mostre o código.</i>
