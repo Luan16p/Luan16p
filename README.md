@@ -26,8 +26,10 @@ Estou sempre aberto(a) para novas oportunidades e colaborações. Se você gosta
 - Email: luan.silva8@estudante.ifms.edu.br
 - LinkedIn: [CONSTRUINDO]
 - Website: https://curriculovirtual.vercel.app/
-
-<img height=200 src="https://myreadme.vercel.app/api/embed/Luan16p?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
 - 
 <i>~ Falar é fácil, me mostre o código.</i>
+
+
+#
+
+<img src="https://myreadme.vercel.app/api/embed/Luan16p?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
