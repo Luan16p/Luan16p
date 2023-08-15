@@ -1,35 +1,35 @@
-# Bem-vindo(a) ao meu GitHub!
+# 👋 Welcome to my GitHub!
 
-Olá! Sou Luan Alves da Silva, um profissional da área de Tecnologia da Informação (TI) com uma trajetória dedicada ao aprimoramento de habilidades técnicas e especialização em diversas áreas do conhecimento. Meu foco principal é o desenvolvimento de soluções de alta qualidade, seguras e escaláveis, utilizando principalmente a linguagem de programação JavaScript, uma das mais importantes e versáteis da atualidade.
+Hello there! I'm Luan Alves da Silva, a professional in the Information Technology (IT) field on a journey dedicated to enhancing technical skills and expertise across various areas of knowledge. My main focus is on crafting high-quality, secure, and scalable solutions, primarily utilizing the JavaScript programming language—one of the most vital and versatile languages today.
 
-## Formação
+## 🎓 Education
 
-- **Técnico em Informática para Internet** - IFMS Campus Naviraí (2022)
-- **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** - Instituto Federal (IF) (2023-2026)
-- **Sistemas para Internet** - Anhanguera (2023-2025/2)
+- **Internet Computing Technician** - IFMS Campus Naviraí (2022)
+- **Technology in Systems Analysis and Development (TADS)** - Federal Institute (IF) (2023-2026)
+- **Internet Systems** - Anhanguera (2023-2025/2)
 
-## Especialização
+## 🚀 Specialization
 
-Ao longo da minha carreira, tive a oportunidade de me especializar em várias áreas do desenvolvimento de software, incluindo:
+Throughout my career, I've had the privilege to specialize in various areas of software development, including:
 
-- **Front-end:** Experiência sólida em construir interfaces avançadas e responsivas, utilizando frameworks como React, Angular e Vue.js.
-- **Back-end:** Habilidade no desenvolvimento de APIs RESTful utilizando tecnologias como Node.js, Python e Java, garantindo a integridade e eficiência das aplicações.
-- **NoSQL e Big Data:** Conhecimento em lidar com grandes volumes de dados, utilizando tecnologias como MongoDB, Cassandra, Hadoop e Spark, permitindo análise e tratamento eficiente das informações.
-- **Excel:** Habilidades avançadas em planilhas eletrônicas, com conhecimento de fórmulas e funções avançadas, além da criação de dashboards e relatórios gerenciais.
-- **Containers:** Experiência com o uso de Docker para criar ambientes isolados e escaláveis, garantindo a segurança e a eficiência dos sistemas.
-- **Metodologias Ágeis:** Capacidade de trabalhar de forma colaborativa, com entregas contínuas e adaptativas, utilizando metodologias como Scrum.
+- **Front-end:** Solid experience in building advanced and responsive interfaces using frameworks like React, Angular, and Vue.js.
+- **Back-end:** Proficiency in developing RESTful APIs using technologies like Node.js, Python, and Java, ensuring application integrity and efficiency.
+- **NoSQL and Big Data:** Knowledge in handling large volumes of data, using technologies like MongoDB, Cassandra, Hadoop, and Spark, enabling efficient analysis and processing of information.
+- **Excel:** Advanced skills in spreadsheets, with knowledge of advanced formulas and functions, as well as creating dashboards and managerial reports.
+- **Containers:** Experience with using Docker to create isolated and scalable environments, ensuring system security and efficiency.
+- **Agile Methodologies:** Ability to work collaboratively, with continuous and adaptive deliveries, using methodologies like Scrum.
 
-## Contato
+## 📞 Contact
 
-Estou sempre aberto(a) para novas oportunidades e colaborações. Se você gostaria de discutir um projeto em potencial, tirar dúvidas ou apenas bater um papo, sinta-se à vontade para entrar em contato comigo:
+I'm always open to new opportunities and collaborations. If you'd like to discuss a potential project, have questions, or just want to chat, feel free to get in touch:
 
 - Email: luan.silva8@estudante.ifms.edu.br
-- LinkedIn: [CONSTRUINDO]
-- Website: https://curriculovirtual.vercel.app/
+- LinkedIn: [TO BE ADDED]
+- Website: [My Portfolio](https://curriculovirtual.vercel.app/)
 - 
-<i>~ Falar é fácil, me mostre o código.</i>
+<i>~ Talking is easy, show me the code.</i>
 
-
-#
+---
 
 <img src="https://myreadme.vercel.app/api/embed/Luan16p?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
