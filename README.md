@@ -31,4 +31,4 @@ I'm always open to new opportunities and collaborations. If you'd like to discus
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api?username=Luan16p&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan16p&hide_progress=true)
