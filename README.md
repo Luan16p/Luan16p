@@ -31,5 +31,4 @@ I'm always open to new opportunities and collaborations. If you'd like to discus
 
 ---
 
-<img src="https://myreadme.vercel.app/api/embed/Luan16p?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
+![Top Languages](https://github-readme-stats.vercel.app/api?username=Luan16p&show_icons=true&bg_color=00000000)
