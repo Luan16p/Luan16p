@@ -26,6 +26,4 @@ I'm always open to new opportunities and collaborations. If you'd like to discus
 
 <hr/>
 
----
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan16p&hide_progress=true)
