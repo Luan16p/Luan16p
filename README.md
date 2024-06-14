@@ -12,8 +12,9 @@ Hello there! I'm Luan Alves da Silva, a professional in the Information Technolo
 
 Throughout my career, I've had the privilege to specialize in various areas of software development, including:
 
-- **Front-end:** Solid experience in building advanced and responsive interfaces using frameworks like React, Angular, and Vue.js.
-- **Back-end:** Proficiency in developing RESTful APIs using technologies like Node.js, Python, and Java, ensuring application integrity and efficiency.
+- **Front-end:** Solid experience in building advanced and responsive interfaces using frameworks like React, Angular, NextJS.
+- **Back-end:** Proficiency in developing RESTful APIs using technologies like Node.js, Laravel and Java, ensuring application integrity and efficiency.
+- **App's** I also venture into learning new things that interest me a lot, like C, Rust and I've even gotten closer to assembly. Seeing how memory, cpu and other things work under the hood is something fascinating in my opinion.
 
 ## 📞 Contact
 
