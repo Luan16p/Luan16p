@@ -14,20 +14,17 @@ Throughout my career, I've had the privilege to specialize in various areas of s
 
 - **Front-end:** Solid experience in building advanced and responsive interfaces using frameworks like React, Angular, and Vue.js.
 - **Back-end:** Proficiency in developing RESTful APIs using technologies like Node.js, Python, and Java, ensuring application integrity and efficiency.
-- **NoSQL and Big Data:** Knowledge in handling large volumes of data, using technologies like MongoDB, Cassandra, Hadoop, and Spark, enabling efficient analysis and processing of information.
-- **Excel:** Advanced skills in spreadsheets, with knowledge of advanced formulas and functions, as well as creating dashboards and managerial reports.
-- **Containers:** Experience with using Docker to create isolated and scalable environments, ensuring system security and efficiency.
-- **Agile Methodologies:** Ability to work collaboratively, with continuous and adaptive deliveries, using methodologies like Scrum.
 
 ## 📞 Contact
 
 I'm always open to new opportunities and collaborations. If you'd like to discuss a potential project, have questions, or just want to chat, feel free to get in touch:
 
 - Email: luan.silva8@estudante.ifms.edu.br
-- LinkedIn: [TO BE ADDED]
 - Website: [My Portfolio](https://curriculovirtual.vercel.app/)
-- 
-<i>~ Talking is easy, show me the code.</i>
+
+## 🇧🇷🇧🇷🇧🇷
+
+<hr/>
 
 ---
 
